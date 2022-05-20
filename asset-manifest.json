@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.b2daf839.js",
+    "main.css": "/react-for-beginners/static/css/main.22d242d5.css",
+    "main.js": "/react-for-beginners/static/js/main.2f1c77b3.js",
+    "static/media/Pretendard-SemiBold.subset.woff": "/react-for-beginners/static/media/Pretendard-SemiBold.subset.3b08b0d72fcbd216a38e.woff",
+    "static/media/Pretendard-Medium.subset.woff": "/react-for-beginners/static/media/Pretendard-Medium.subset.5fc42a81611c0e5fad98.woff",
+    "static/media/Pretendard-Regular.subset.woff": "/react-for-beginners/static/media/Pretendard-Regular.subset.8304a570cb6592035741.woff",
     "index.html": "/react-for-beginners/index.html",
-    "main.b2daf839.js.map": "/react-for-beginners/static/js/main.b2daf839.js.map"
+    "main.22d242d5.css.map": "/react-for-beginners/static/css/main.22d242d5.css.map",
+    "main.2f1c77b3.js.map": "/react-for-beginners/static/js/main.2f1c77b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2daf839.js"
+    "static/css/main.22d242d5.css",
+    "static/js/main.2f1c77b3.js"
   ]
 }
